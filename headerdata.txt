@@ -1,0 +1,4 @@
+For the shoppingcart we are designing headers
+
+All the headers should be in bold letters with underline
+
