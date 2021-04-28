@@ -1,4 +1,3 @@
-updating with SSH keys
 #Sample Content#
 New Catlog file 
 This catlog file is for shoppingcart project
